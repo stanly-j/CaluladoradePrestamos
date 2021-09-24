@@ -1,0 +1,30 @@
+C:\calcularprestamo\calcularprestamo\bin\Debug\calcularprestamo.exe.config
+C:\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.csprojResolveAssemblyReference.cache
+C:\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.Properties.Resources.resources
+C:\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.csproj.GenerateResource.Cache
+C:\calcularprestamo\calcularprestamo\bin\Debug\calcularprestamo.exe
+C:\calcularprestamo\calcularprestamo\bin\Debug\calcularprestamo.pdb
+C:\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.Form1.resources
+C:\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.exe
+C:\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.pdb
+H:\sitema\calcularprestamo\calcularprestamo\bin\Debug\calcularprestamo.exe.config
+H:\sitema\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.exe
+H:\sitema\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.pdb
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\bin\Debug\calcularprestamo.exe.config
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\obj\Debug\calcularprestamo.exe
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\obj\Debug\calcularprestamo.pdb
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\bin\Debug\calcularprestamo.exe
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\bin\Debug\calcularprestamo.pdb
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\obj\Debug\calcularprestamo.csprojResolveAssemblyReference.cache
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\obj\Debug\calcularprestamo.Form1.resources
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\obj\Debug\calcularprestamo.Properties.Resources.resources
+C:\Users\stanl\Documents\Calcular Prestamo\calcularprestamo\obj\Debug\calcularprestamo.csproj.GenerateResource.Cache
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\bin\Debug\calcularprestamo.exe.config
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.exe
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.pdb
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\bin\Debug\calcularprestamo.exe
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\bin\Debug\calcularprestamo.pdb
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.csprojResolveAssemblyReference.cache
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.Form1.resources
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.Properties.Resources.resources
+C:\Users\stanl\Desktop\CapaPresentacion\calcularprestamo\calcularprestamo\obj\Debug\calcularprestamo.csproj.GenerateResource.Cache
